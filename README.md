@@ -1,8 +1,7 @@
 # Explainable-Credit-Risk
 
-## The problem
 
-## The problem
+## The Problem
 
 Every decision made with the help of AI deserves an explanation. Banks increasingly
 use AI to support decisions about who receives a loan, and these decisions affect
@@ -22,10 +21,10 @@ decisions are faithful to what the model actually did, so that banks can trust
 them and people are not misled about decisions that affect them.
 
 
-## The question
+## The Question
 Can banks trust AI-generated explanations of credit decisions?
 
-## The plan
+## The Plan
 1. Build and understand a credit risk model (German Credit dataset)
 2. Move to realistic data and rigorous explanations (SHAP)
 3. Evaluate whether AI-generated explanations are faithful/accurate to the model
